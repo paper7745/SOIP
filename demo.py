@@ -935,15 +935,10 @@ def get_arcface(rimg, shape):
 
     return img_crop, img_shape, LM
 
-# img_crop = cv2.imread('./for_demo2/1007.jpg')
-# img_crop_2 = cv2.imread('./for_demo2/70615.jpg')
-# img_crop_3 = cv2.imread('./for_demo2/106298.jpg')
-# img_crop_4 = cv2.imread('./for_demo2/54310.jpg')
-
-img_crop = cv2.imread('./for_demo2/0000375.jpg')
-img_crop_2 = cv2.imread('./for_demo2/0000425.jpg')
-img_crop_3 = cv2.imread('./for_demo2/0005000.jpg')
-img_crop_4 = cv2.imread('./for_demo2/0002525.jpg')
+img_crop = cv2.imread('./for_demo/0000375.jpg')
+img_crop_2 = cv2.imread('./for_demo/0000425.jpg')
+img_crop_3 = cv2.imread('./for_demo/0005000.jpg')
+img_crop_4 = cv2.imread('./for_demo/0002525.jpg')
 
 
 img_crop = cv2.resize(img_crop, (256, 256))
