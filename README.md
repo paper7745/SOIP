@@ -2,7 +2,7 @@
 
 You can use this program to reproduce what we described in the paper.
 
-Please download the pretrained model, and put it in the directory after decompression
+Please download the pretrained model, and put it in the directory after decompression.
 
 https://drive.google.com/file/d/1S-dDljxz-_F39shlZ5D99aKB24DGa2nN/view?usp=sharing
 
