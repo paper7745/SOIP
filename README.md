@@ -15,13 +15,13 @@ In this demo, you will be the reference face. Therefore, you can control the sou
 
 https://drive.google.com/file/d/1S-dDljxz-_F39shlZ5D99aKB24DGa2nN/view?usp=sharing
 
-2. You must to have a usb camera to detect your face.
+2. You must to have a usb camera to detect your face and make sure you have successfully installed.
 
-And then, run the ``demo.py``
+3. And then, run the ``demo.py``
 
 > python demo.py
 
-3. For better performance, we strongly recommend using the same version as ours.
+4. For better performance, we strongly recommend using the same version as ours.
 
 
 
