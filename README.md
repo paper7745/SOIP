@@ -11,9 +11,11 @@
 ## Demo
 In this demo, you will be the reference face. Therefore, you can control the source face to follow your pose.
 
-1. Please download the pretrained model, and put it in the directory ``./`` after decompression.
+1. Because the size of our pretrained model is too big to be stored to GitHub, please download the model from
 
 https://drive.google.com/file/d/1S-dDljxz-_F39shlZ5D99aKB24DGa2nN/view?usp=sharing
+
+Unzip it and place it in the main directory ``./``.
 
 2. You must to have a usb camera to detect your face and make sure you have successfully installed.
 
